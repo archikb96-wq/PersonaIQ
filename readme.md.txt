@@ -35,3 +35,7 @@ Developed as part of the **Generative AI in Marketing (GAIM)** individual projec
 ---
 
 ## 📦 Folder Structure  
+
+## 🌐 Live App
+Try it here 👉 [https://personaiq.onrender.com](https://personaiq.onrender.com)
+
